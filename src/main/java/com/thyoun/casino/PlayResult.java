@@ -1,0 +1,5 @@
+package com.thyoun.casino;
+
+public enum PlayResult {
+	BANKER,PLAYER,TIE,NATURAL8, NATURAL9,PANDA,DRAGON,THREECARD89, ANY89, ANY87,PAIR
+}

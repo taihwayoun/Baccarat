@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: thyou
+Build-Jdk: 12
+Implementation-Title: com.thyoun.casino
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: casino-simulation-baccarat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/com.thyoun.casino
+Created-By: Maven Integration for Eclipse
+
